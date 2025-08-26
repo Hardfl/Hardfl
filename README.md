@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardfl :))
 - 👀 I’m interested in coding. I also love to write, sing, and play videogames. 
-- 🌱 I’m currently learning AP Computer Science. 
+- 🌱 I’m currently learning coding languages and trying to get some certificatiions down. I hope to create some personal projects. 
 - 💞 Help- 
 
 <!---
