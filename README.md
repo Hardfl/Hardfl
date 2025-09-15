@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hardfl :)) This is my personal GitHub account. 
+- 👋 Hi, I’m Harika :)) This is my personal GitHub account. 
 - 👀 I’m interested in coding. I also love to write, sing, and play videogames. 
 - 🌱 I’m currently learning coding languages and trying to get some certificatiions down. I hope to create some personal projects. 
 - 💞 I would love to make new connections!
